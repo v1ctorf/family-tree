@@ -22,14 +22,14 @@ containing the graph, you will need a graph drawer such as [GraphViz] [1].
 Usage
 -----
 
-The sample family descriptor `LouisXIVfamily.txt` is here to show you the
+The sample family descriptor `PreviatoFamily.txt` is here to show you the
 usage. Simply run:
 ```
 $ ./familytreemaker.py -a 'Giuseppe Previato' PreviatoFamily.txt | dot -Tpng -o PreviatoFamily.png
 ```
-It will generate the tree from the infos in `LouisXIVfamily.txt`, starting from
-*Louis XIV* and saving the image in `LouisXIVfamily.png`.
+It will generate the tree from the infos in `PreviatoFamily.txt`, starting from
+*Louis XIV* and saving the image in `PreviatoFamily.png`.
 
 You can see the result:
 
-![result: LouisXIVfamily.png](/LouisXIVfamily.png)
+![result: PreviatoFamily.png](/PreviatoFamily.png)
