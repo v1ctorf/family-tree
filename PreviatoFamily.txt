@@ -1,0 +1,24 @@
+Victor Ferreira Silva (id=Victor)
+Nicoli Santorelli Peres (F, birthday=1989-04-03)
+
+Terezinha Donizete\n de Brito Ferreira Silva (id=Terezinha)
+Paulo Ferreira Silva (M, birthday=1954-10-23)
+	Victor Ferreira Silva (M, birthday=1985-05-07, id=Victor)
+	Renan (M, birthday=1987-03-19)
+	Beatriz (F, birthday=1989-07-31)
+
+Jose Agostinho de Brito (M)
+Maria Genoefa Previato (F, id=MariaG)
+	Terezinha Donizete\n de Brito Ferreira Silva (F, birthday=1960-04-15, deathday=2021-11-24, id=Terezinha)
+	Dirceu (M)
+	Elenize (F, surname=Zinha)
+	Maria Aparecida (F, surname=Buca)
+
+Rosa Magosso (F)
+Joao Benevenuto\nPreviato (id=JoaoB)
+	Maria Genoefa (id=MariaG)
+	Malvina (F)
+
+Giuseppe Previato (M, birthday=1866-06-05, id=Previato1866)
+Giuditta Maria Crozzoletta (F)
+	Joao Benevenuto\nPreviato (M, id=JoaoB)

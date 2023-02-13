@@ -1,4 +1,4 @@
-familytreemaker
+familytreemaker - Previato
 ===============
 
 This program creates family tree graphs from simple text files.
@@ -25,7 +25,7 @@ Usage
 The sample family descriptor `LouisXIVfamily.txt` is here to show you the
 usage. Simply run:
 ```
-$ ./familytreemaker.py -a 'Louis XIV' LouisXIVfamily.txt | dot -Tpng -o LouisXIVfamily.png
+$ ./familytreemaker.py -a 'Giuseppe Previato' PreviatoFamily.txt | dot -Tpng -o PreviatoFamily.png
 ```
 It will generate the tree from the infos in `LouisXIVfamily.txt`, starting from
 *Louis XIV* and saving the image in `LouisXIVfamily.png`.
