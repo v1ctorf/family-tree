@@ -34,15 +34,20 @@ Osias Greve (M, id=Osias)
 	Jeane (F, id=Jeane)
 
 Malvina (id=MalvinaSJB)
-Antonio Amorim (M, id=Siri)
+Antonio Amorim (M, id=AntonioAmorim)
 	Fernando (M, id=FernandoAmorim)
-	Marcelo (M)
+	Marcelo (M, id=MarceloAmorim)
 
 Fernando (id=FernandoAmorim)
 Elisangela (F)
 	Matheus (M)
 	Savio (M)
 	Helena (F)
+
+Marcelo (M, id=MarceloAmorim)
+Fernanda (F)
+	Maria Fernanda (F)
+	Ana Maria (F)
 
 Elenize (id=Zinha)
 Sebastião Custódio (M, surname=Tiao, id=Tiao)
