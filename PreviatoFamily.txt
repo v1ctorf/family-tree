@@ -45,7 +45,7 @@ Osias Greve (M, id=Osias)
 	Jeane (F, id=Jeane)
 
 Terezinha (id=Terezinha)
-Paulo Ferreira Silva (M, birthday=1954-10-23)
+Paulo\nFerreira Silva (M, birthday=1954-10-23)
 	Victor (M, birthday=1985-05-07, id=Victor)
 	Renan (M, birthday=1987-03-19)
 	Beatriz (F, birthday=1989-07-31)
