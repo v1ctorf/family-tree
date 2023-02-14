@@ -51,7 +51,7 @@ Paulo Ferreira Silva (M, birthday=1954-10-23)
 	Beatriz (F, birthday=1989-07-31)
 
 Malvina (id=MalvinaSJB)
-Antonio Amorim (M, id=AntonioAmorim)
+Antonio\nAmorim (M, id=AntonioAmorim)
 	Fernando (M, id=FernandoAmorim)
 	Marcelo (M, id=MarceloAmorim)
 
@@ -73,7 +73,7 @@ Elisangela (F)
 	Helena (F)
 
 Dirce (id=Dirce)
-Carlos Marista (M)
+Carlos\nMarista (M)
 	Joaquim (M)
 
 Marcelo (M, id=MarceloAmorim)
@@ -82,7 +82,7 @@ Fernanda (F)
 	Ana Maria (F)
 
 Victor (id=Victor)
-Nicoli Santorelli (F, birthday=1989-04-03)
+Nicoli\nSantorelli\nPeres(F, birthday=1989-04-03)
 
 Beatriz (id=Beatriz)
 Guilherme (M)
